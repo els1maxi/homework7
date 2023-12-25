@@ -132,6 +132,7 @@
   
   .main-subtitle {
     margin-bottom: 10px;
+    color:  #F6F6F6 ;
   }
   
   .main-tittle {
@@ -140,6 +141,7 @@
   
   .main-text {
     margin-bottom: 54px;
+    color:  #F6F6F6 ;
   }
   
   .phone-screen {
@@ -223,6 +225,7 @@
     margin-top: 17px;
     margin-bottom: 27px;
     line-height: 57px;
+    color: #252B42 ;
   }
   
   .works-txt {
